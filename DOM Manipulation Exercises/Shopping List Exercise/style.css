@@ -21,3 +21,11 @@
 .done {
   text-decoration: line-through;
 }
+
+li {
+  padding-top: 0.5em;
+}
+
+.delete {
+  margin-left: 1em;
+}
